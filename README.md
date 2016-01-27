@@ -1,2 +1,2 @@
-# blog-website-hurting
-afsd
+# Drafts
+Working copies of future posts. 
