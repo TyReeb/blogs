@@ -22,9 +22,11 @@ Company X's Website
 Competitor's Website
 
 *The Good*
+
 Before I delve too much into the problems with Company X’s website, I feel I should give credit where credit is due.  Company X has done a good job generating a list of players, organized by position, which will become free agents after this season.  However, when compared to their competitor’s website, it would be unfair to claim Company X has provided any greater value.       
 
 *The Bad*
+
 Company X has left out many important pieces of information about the players.  You have to leave Company X’s webpage to find any discernable information or player statistics.  A simple solution would have been to link player names to a statistics sheet, much like their competitor did.  
 
 The competitor’s webpage includes an interactive drop down menu that makes the site easier to navigate whereas Company X does not.  While there are many tools aside from a simple drop down menu that allow for easier site navigation, this comparison provides one key takeaway.  Company X failed to consider the user in their design and development and thus their creation fails to serve the needs of their audience.
@@ -32,6 +34,7 @@ The competitor’s webpage includes an interactive drop down menu that makes the
 Company X’s website provides little real value to the consumer.  That alone is enough to drive many consumers to other companies that provide greater knowledge in an easier to digest format.  This translates into lost revenues and decreased market share.      
 
 *The Ugly*
+
 The webpage of Company X is almost entirely white space aside from the seemingly endless list of player names and the paid advertisements on the right.  It appears that no thought went into the design or appearance of the page.  Even though their competitor’s page uses only two more colors, the result is undeniably more effective in solving the users’ pain points and clearly communicating information.  Ultimately, this lack of direction in Company X’s webpage results in a product that is difficult on the eyes and even more difficult to navigate.  
 
 ## So... What's the big deal?
