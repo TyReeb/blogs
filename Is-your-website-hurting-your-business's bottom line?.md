@@ -1,4 +1,4 @@
 # Is Your Website Hurting Your Business's Bottom Line?
 It is clear that in today's crowded online space, a functional and well designed website can be a great tool for helping business's compete in the modern economy.  I would be willing to bet that there are very few people, if any, who would disagree with this claim.  For many businessess, the company website is the first point of communication between the business and their potential customers.   Creating a good first impression with your website is remarkably beneficial for increasing brand awareness, developing relationships with consumers, and converting consumers to your brand and products.  Ultimately, these benefits will reveal themselves as growth in your company's bottom line.  Companies that understand the relationship between the digitial and physical, and successfully traverse the divide, typically outperform those that do not. 
 
-
+*"A good first impression can work wonders."* -- J.K. Rowling
