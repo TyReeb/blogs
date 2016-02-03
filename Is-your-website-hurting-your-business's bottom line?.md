@@ -21,7 +21,7 @@ Company X's Website
 
 Competitor's Website
 
-**The Good**
+***The Good***
 
 Before I delve too much into the problems with Company X’s website, I feel I should give credit where credit is due.  Company X has done a good job generating a list of players, organized by position, which will become free agents after this season.  However, when compared to their competitor’s website, it would be unfair to claim Company X has provided any greater value.       
 
