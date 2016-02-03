@@ -1,7 +1,7 @@
 ## Web Design and Your Firm's Bottom Line
 Think your company’s website isn’t important?  Think again.  Last week I wrote an article {link to article} that loosely addressed this question by comparing the websites of Company X and one of their competitors.  The analysis allowed for a great illustration of how web users interact with companies via the Internet.  However, the previous article didn’t address the relationship between a company’s online efforts and their bottom line (i.e. $$$).   This article aims to do just that.  So, sit back, relax, and let’s talk numbers. 
 
-*"Data is the sword of the 21st Century, those who wield it well, the Samurai." - Jonathan Rosenberg
+*"Data is the sword of the 21st Century, those who wield it well, the Samurai."* -- Jonathan Rosenberg
 
 # The Numbers and Data
 
