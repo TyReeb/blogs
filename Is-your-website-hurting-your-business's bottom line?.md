@@ -17,15 +17,15 @@ A quick Google search for “2016 nfl free agents” revealed an overwhelming am
 
 ## The Results
 
-Company X's Website 
+***Company X's Website*** 
 
-Competitor's Website
+***Competitor's Website***
 
 ***The Good***
 
 Before I delve too much into the problems with Company X’s website, I feel I should give credit where credit is due.  Company X has done a good job generating a list of players, organized by position, which will become free agents after this season.  However, when compared to their competitor’s website, it would be unfair to claim Company X has provided any greater value.       
 
-*The Bad*
+***The Bad***
 
 Company X has left out many important pieces of information about the players.  You have to leave Company X’s webpage to find any discernable information or player statistics.  A simple solution would have been to link player names to a statistics sheet, much like their competitor did.  
 
@@ -33,7 +33,7 @@ The competitor’s webpage includes an interactive drop down menu that makes the
 
 Company X’s website provides little real value to the consumer.  That alone is enough to drive many consumers to other companies that provide greater knowledge in an easier to digest format.  This translates into lost revenues and decreased market share.      
 
-*The Ugly*
+***The Ugly***
 
 The webpage of Company X is almost entirely white space aside from the seemingly endless list of player names and the paid advertisements on the right.  It appears that no thought went into the design or appearance of the page.  Even though their competitor’s page uses only two more colors, the result is undeniably more effective in solving the users’ pain points and clearly communicating information.  Ultimately, this lack of direction in Company X’s webpage results in a product that is difficult on the eyes and even more difficult to navigate.  
 
@@ -41,19 +41,19 @@ The webpage of Company X is almost entirely white space aside from the seemingly
 
 This specific example is focused entirely on two companies and their webpages, but there are several major concepts can be taken from this comparison.  These concepts can be used in any business ecosystem where there are at least two competing forces (i.e. other companies websites) and they are further outlined below. 
 
-*Don’t let your first impression be your last.*
+***Don’t let your first impression be your last.***
 
 As I stated earlier in this article, first impressions count.  I can’t begin to think of a scenario in which one is given a second chance to make a first impression.  My first impression of Company X based off their website was not great.  They failed to meet both my needs and my expectations.  Would I purchase their services in the future, recommend their products a friend, or return to their website?  Not likely.  
 
-*When given an opportunity, make it count.*
+***When given an opportunity, make it count.***
 
 During my initial search for a company that could deliver the product I needed, in this case information, I was overwhelmed by an astounding amount of results.  The first company page I visited was that of Company X.  As soon as I made the decision to view their page, they were presented with an opportunity.  They very well could have converted me into a lifelong customer.  Had they provided me an exceptional product and user experience, this article would have never been written.  However, they failed to do so.  It is essential that a company’s website serves as mechanism for building and expanding it customer base, instead of a barrier that constricts customer acquisition.   
 
-*Don’t create a website simply for the sake of creating a website.*      
+***Don’t create a website simply for the sake of creating a website.***      
 
 In my opinion, Company X seems to have had little motivation for creating their sports website aside from directing consumers to their other products.  They didn’t design their website around the user, and it shows in the output.  If a company isn’t truly passionate about the product they are creating and the user for that product, it will likely result in failure.  The movie Field of Dreams makes the bold claim, “If you build it, they will come.”  However, this is far from the truth in an environment where there are seemingly infinite substitutes.  Instead, the saying should read, “If you build it for your users, they will come.”    
 
-*Design matters.*  
+***Design matters.***  
 
 Most of us have heard the old proverb, “Don’t judge a book by its cover.”  In theory, this is a great motto to live by.  In practice, this motto becomes much more difficult to implement as it is challenging to discern between conscious and subconscious judgment.  Furthermore, it is a natural human tendency to assess a situation by observing stimuli and attempt to make sense of these inputs, especially in the context of the Internet and websites.  The output of this assessment is a conclusion, or judgment, about the site one is viewing.   For example, a consumer may look at Company X’s website and make the following deductions:
 *	“This website seems unprofessional.  I wonder if the company is really as ‘expert’ as they claim on this subject.”
