@@ -3,7 +3,7 @@ It is clear that in today's crowded online space, a functional and well designed
 
 *"A good first impression can work wonders."* -- J.K. Rowling
 
-## Title Needed 
+## The Search Begins
 
 I am always amazed when I come across a company’s website and it appears to have last been updated decades ago.  In order to best illustrate this point, I would like to use a recent experience I had with one of the larger Internet companies in the United States.  Lets call this company “Company X,” as I would prefer not to completely throw them under the bus.
 
