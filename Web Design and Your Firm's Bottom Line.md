@@ -31,7 +31,7 @@ The successful navigation through the noise can provide great reward.  Mastering
 *	The Internet (as opposed to apps, social media, or in-store technologies) is the preferred channel to inform retail decisions with 75% of users saying it was important or very important 
 *	67% of mobile users claim that they’re more likely to purchase a site’s product or service when the site is mobile-friendly
 
-But, when websites are unable to traverse through the ‘noise’ and become lost in its vastness, thou outcome is less than desirable.  Typical outcomes in this scenario are loss of clients, users, and, most importantly, money.  
+But, when websites are unable to traverse through the ‘noise’ and become lost in its vastness, the outcome is less than desirable.  Typical outcomes in this scenario are loss of clients, users, and, most importantly, money.  
 
 *	52% of users said that a bad mobile experience made them less likely to engage with a company 
 *	About 8 in 10 users will leave your website for another if they don’t like what they see
