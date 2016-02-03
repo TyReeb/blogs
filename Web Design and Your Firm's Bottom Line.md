@@ -18,5 +18,6 @@ However, when websites lack functionality or adaptability, users tend to behave 
 
 *	61% of users quickly move onto another site if they are unable to find what they are looking for on a mobile-friendly site
 *	When a website isn’t optimized for mobile, users are 5 times more likely to give up on the task
+
         * Of those users, 79% will seek out a different site to finish the task
 *	79% of consumers who don’t like what they find on one website will search for another website
