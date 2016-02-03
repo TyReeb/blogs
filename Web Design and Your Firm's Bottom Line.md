@@ -24,8 +24,7 @@ These figures uncover a key user behavior, albeit one that is not very surprisin
 
 ***The Business***
 
-So, what does this changing economic landscape mean for businesses?  Essentially, it means that most businesses are presented with a different set of challenges and as new challenges present themselves, so too will new opportunities.  In the context of web design and development, businesses are competing in an increasingly ‘noisier’ space.  As more and more business and users move into the digital universe, it becomes more difficult to stand out in this space and make your company ‘heard.’
-The successful navigation through the noise can provide great reward.  Mastering this space can give a business a competitive advantage over their peers.   
+So, what does this changing economic landscape mean for businesses?  Essentially, it means that most businesses are presented with a different set of challenges and as new challenges present themselves, so too will new opportunities.  In the context of web design and development, businesses are competing in an increasingly ‘noisier’ space.  As more and more business and users move into the digital universe, it becomes more difficult to stand out in this space and make your company ‘heard.’  Successful navigation through the noise can provide great reward.  Mastering this space can give a business a competitive advantage over their peers.   
 
 *	Up to 60% of consumers exclusively used mobile to make a purchase decision 
 *	The Internet (as opposed to apps, social media, or in-store technologies) is the preferred channel to inform retail decisions with 75% of users saying it was important or very important 
