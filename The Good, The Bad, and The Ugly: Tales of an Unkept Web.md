@@ -23,7 +23,7 @@ A quick Google search for “2016 nfl free agents” revealed an overwhelming am
 
 ***Competitor's Website***
 
-https://cloud.githubusercontent.com/assets/15149254/12799481/41dc53a0-ca8c-11e5-8390-8459fcf248d3.png
+![image](https://cloud.githubusercontent.com/assets/15149254/12799481/41dc53a0-ca8c-11e5-8390-8459fcf248d3.png)
 
 ***The Good***
 
