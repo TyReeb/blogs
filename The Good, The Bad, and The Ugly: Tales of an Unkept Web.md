@@ -43,7 +43,7 @@ The webpage of Company X is almost entirely white space aside from the seemingly
 
 ## So... What's the big deal?
 
-This specific example is focused entirely on two companies and their webpages, but there are several major concepts can be taken from this comparison.  These concepts can be used in any business ecosystem where there are at least two competing forces (i.e. other companies) and they are further outlined below. 
+This specific example is focused entirely on two companies and their webpages, but there are several major concepts that can be taken away from this comparison.  These concepts can be used in any business ecosystem where there are at least two competing forces (i.e. other companies) and they are further outlined below. 
 
 ***Don’t let your first impression be your last.***
 
