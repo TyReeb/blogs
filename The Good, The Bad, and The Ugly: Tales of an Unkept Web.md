@@ -13,7 +13,7 @@ With so much drama at the quarterback position, my mind immediately began racing
 
 In an attempt to relieve the anxiety I was feeling due the uncertainty at the quarterback position, I took to the Internet in hopes of finding the answers I needed.  I was able to find much of the information I was looking for relatively quickly and my mind began to feel at peace.  However, I was still curious as to who would be available at the quarterback position for 2016-2017 season should Osweiler make an exit.  
 
-A quick Google search for “2016 nfl free agents” revealed an overwhelming amount of results.  I began to browse over the search results and I saw a link to Company X’s sports page.  Given the reputation of Company X, I figured it would be a great source for reliable information presented in a way that is easy to digest.  I could not have been more wrong.  I received a terrible first impression from their website.  In fact, I was so disappointed with Company X that I decided to take a screenshot of their website and use it as a teaching point. 
+A quick Google search for “2016 nfl free agents” revealed an overwhelming amount of results.  I began to browse over the search results and I saw a link to Company X’s sports page.  Given the reputation of Company X, I figured it would be a great source for reliable information presented in a way that is easy to digest.  I could not have been more wrong.  I received a terrible first impression from their website.  In fact, I was so disappointed with Company X that I decided to take a screenshot of their website and use it as an educational tool. 
 
 ## The Results
 
@@ -39,7 +39,7 @@ Company X’s website provides little real value to the consumer.  That alone is
 
 ***The Ugly***
 
-The webpage of Company X is almost entirely white space aside from the seemingly endless list of player names and the paid advertisements on the right.  It appears that no thought went into the design or appearance of the page.  Even though their competitor’s page uses only two more colors, the result is undeniably more effective in solving the users’ pain points and clearly communicating information.  Ultimately, this lack of direction in Company X’s webpage results in a product that is difficult on the eyes and even more difficult to navigate.  
+The webpage of Company X is almost entirely white space aside from the seemingly endless list of player names and the paid advertisements on the right.  It appears that no thought went into the design or appearance of the page.  Even though their competitor’s page uses only two more colors, the result is undeniably more effective in solving the users’ pain points and clearly communicating information.  Ultimately, the lack of direction in Company X’s webpage results in a product that is difficult on the eyes and even more difficult to navigate.  
 
 ## So... What's the big deal?
 
@@ -51,20 +51,20 @@ As I stated earlier in this article, first impressions count.  I can’t begin t
 
 ***When given an opportunity, make it count.***
 
-During my initial search for a company that could deliver the product I needed, in this case information, I was overwhelmed by an astounding amount of results.  The first company page I visited was that of Company X.  As soon as I made the decision to view their page, they were presented with an opportunity.  They very well could have converted me into a lifelong user.  Had they provided me an exceptional product and user experience, this article would have never been written.  However, they failed to do so.  It is essential that a company’s website serves as mechanism for building and expanding it customer base, instead of a barrier that constricts customer acquisition.   
+During my initial search for a company that could deliver the product I needed, in this case information, I was overwhelmed by an astounding amount of results.  The first company page I visited was that of Company X.  As soon as I made the decision to view their page, they were presented with an opportunity.  They very well could have converted me into a lifetime user.  Had they provided me an exceptional product and user experience, this article would have never been written.  However, they failed to do so.  It is essential that a company’s website serves as mechanism for building and expanding it customer base, instead of a barrier that constricts customer acquisition.   
 
 ***Don’t create a website simply for the sake of creating a website.***      
 
-In my opinion, Company X seems to have had little motivation for creating their sports website aside from directing consumers to their other products.  They didn’t design their website around the user, and it shows in the output.  If a company isn’t truly passionate about the product they are creating and the users for that product, it will likely result in failure.  The movie Field of Dreams makes the bold claim, “If you build it, they will come.”  However, this is far from the truth in an environment where there are seemingly infinite substitutes.  Instead, the saying should read, “If you build it for your users, they will come.”    
+In my opinion, Company X seems to have had little motivation for creating their sports website aside from directing consumers to their other products.  They didn’t design their website around the user, and it shows in the output.  If a company isn’t truly passionate about the product they are creating and they don't understand thier users, the product will likely result in failure.  The movie Field of Dreams makes the bold claim, “If you build it, they will come.”  However, this is far from the truth in an environment where there are seemingly infinite substitutes.  Instead, the saying should read, “If you build it for your users, they will come.”    
 
 ***Design matters.***  
 
-Most of us have heard the old proverb, “Don’t judge a book by its cover.”  In theory, this is a great motto to live by.  In practice, this motto becomes much more difficult to implement as it is challenging to discern between conscious and subconscious judgment.  Furthermore, it is a natural human tendency to assess a situation by observing stimuli and attempt to make sense of these inputs, especially in the context of the Internet and websites.  The output of this assessment is a conclusion, or judgment, about the site one is viewing.   For example, a consumer may look at Company X’s website and make the following deductions:
+Most of us have heard the old proverb, “Don’t judge a book by its cover.”  In theory, this is a great motto to live by.  In practice, this motto becomes much more difficult to implement as it is challenging to discern between conscious and subconscious judgment.  Furthermore, it is a natural human tendency to assess a situation by observing stimuli and attempting to make sense of these inputs, especially in the context of the Internet and websites.  The output of this assessment is a conclusion, or judgment, about the site one is viewing.   For example, a consumer may look at Company X’s website and make the following deductions:
 *	“This website seems unprofessional.  I wonder if the company is really as ‘expert’ as they claim on this subject.”
 *	“This website looks to be pretty low-budget.  I’d like to do business with companies that are willing to put in the time and effort.”
-*	“The information is hard to read and this website is difficult to navigate.  I bet I kind find a better source relatively easy.”
+*	“The information is hard to read and this website is difficult to navigate.  I bet I can find a better source relatively easy.”
 	
-If viewers of your website are making these conclusions, there is clearly a mismatch between your websites offerings and the needs of your audience.  When this is the case, a company must reevaluate its website and seek to remedy the results of consumers’ assessments.  With this in mind, I leave you with the words of Italian designer Massimo Vignelli.  Consider his words in the context of your own website.  Have you done it right?  If it is not done right, what can be done to fix it?
+If viewers of your website are making these conclusions, there is clearly a mismatch between your websites offerings and the needs of your audience.  When this is the case, a company must reevaluate its website and seek to remedy the outcomes of consumers’ assessments.  With this in mind, I leave you with the words of Italian designer Massimo Vignelli.  Consider his words in the context of your own website.  Have you done it right?  If it is not done right, what can be done to fix it?
 
 *"If you do it right, it will last forever."* -- Massimo Vignelli
 
