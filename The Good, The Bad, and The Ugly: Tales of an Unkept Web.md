@@ -51,7 +51,7 @@ As I stated earlier in this article, first impressions count.  I can’t begin t
 
 ***When given an opportunity, make it count.***
 
-During my initial search for a company that could deliver the product I needed, in this case information, I was overwhelmed by an astounding amount of results.  The first company page I visited was that of Company X.  As soon as I made the decision to view their page, they were presented with an opportunity.  They very well could have converted me into a lifetime user.  Had they provided me an exceptional product and user experience, this article would have never been written.  However, they failed to do so.  It is essential that a company’s website serves as a mechanism for building and expanding it's customer base, instead of a barrier that constricts customer acquisition.   
+During my initial search for a company that could deliver the product I needed, in this case information, I was overwhelmed by an astounding amount of results.  The first company page I visited was that of Company X.  As soon as I made the decision to view their page, they were presented with an opportunity.  They very well could have converted me into a lifetime user.  Had they provided me an exceptional product and user experience, this article would have never been written.  However, they failed to do so.  It is essential that a company’s website serves as a mechanism for building and expanding its customer base, instead of a barrier that constricts customer acquisition.   
 
 ***Don’t create a website simply for the sake of creating a website.***      
 
