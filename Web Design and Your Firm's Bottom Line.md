@@ -1,5 +1,5 @@
 ## Web Design and Your Firm's Bottom Line
-Think your company’s website isn’t important?  Think again.  Last week I wrote an article {link to article} that loosely addressed this question by comparing the websites of Company X and one of their competitors.  The analysis allowed for a great illustration of how web users interact with companies via the Internet.  However, the previous article didn’t address the relationship between a company’s online efforts and their bottom line (i.e. $$$).   This article aims to do just that.  So, sit back, relax, and let’s talk numbers. 
+Think your company’s website isn’t important?  Think again.  In a previous article{link to article}, I explored a relationship that loosely addressed this question by comparing the websites of Company X and one of their competitors.  The analysis allowed for a great illustration of how web users interact with companies via the Internet.  However, the previous article didn’t address the relationship between a company’s online efforts and their bottom line (i.e. $$$).   This article aims to do just that.  So, sit back, relax, and let’s talk numbers. 
 
 *"Data is the sword of the 21st Century, those who wield it well, the Samurai."* -- Jonathan Rosenberg
 
@@ -7,7 +7,7 @@ Think your company’s website isn’t important?  Think again.  Last week I wro
 
 ***The Users***
 
-Users increasingly value websites that are both functional and adaptable.  By that, I mean the website is capable of operation on either mobile or PC devices without the loss of functionality or features.  When company websites and apps are constructed in such a manner, the user behavior is much more promising for the bottom line.   
+Users increasingly value websites that are both functional and adaptable.  By that, I mean the website is capable of operation on either mobile or PC devices without the loss functionality, latency, or features.  When company websites and apps are constructed in such a manner, the user behavior is much more promising in terms of benefit to the bottom line.   
 
 *	74% of users are more likely to return to a site that is mobile-friendly
 *	95% of consumers agreed that “good user experience just makes sense”
@@ -22,9 +22,11 @@ However, when websites lack functionality or adaptability, users tend to behave 
 
 These figures uncover a key user behavior, albeit one that is not very surprising.  If your website or application doesn’t work well, don’t expect people to use it.  As users seek out alternatives, they take their presence, and most importantly their money, elsewhere. Users that are lost to competitors ultimately result in lower revenues for your company.  Don’t allow your website to be a catalyst for poor financial performance. 
 
+In contrast, a well developed web and/or mobile application will encourage users to return to your site.  This will increase customer retention rate and as this percentage increase, so too will revenue derived from your products and services.  Just as a poorly developed application can be a catalyst for negative financial performance, a well developed application can be a catalyst for positive financial performance.
+
 ***The Business***
 
-So, what does this changing economic landscape mean for businesses?  Essentially, it means that most businesses are presented with a different set of challenges and as new challenges present themselves, so too will new opportunities.  In the context of web design and development, businesses are competing in an increasingly ‘noisier’ space.  As more and more business and users move into the digital universe, it becomes more difficult to stand out in this space and make your company ‘heard'.  Successful navigation through the noise can provide great reward.  Mastering this space can give a business a competitive advantage over their peers.   
+So, what does this changing economic landscape mean for businesses?  Essentially, it means that most businesses are presented with a different set of challenges and as new challenges present themselves, so too will new opportunities.  In the context of web design and development, businesses are competing in an increasingly ‘noisier’ space.  As more and more business move into the digital universe, it becomes more difficult to stand out in this space and make your company ‘heard'.  Successful navigation through the noise can provide great reward.  Mastering this space can give a business a competitive advantage over their peers.   
 
 *	Up to 60% of consumers exclusively used mobile to make a purchase decision 
 *	The Internet (as opposed to apps, social media, or in-store technologies) is the preferred channel to inform retail decisions with 75% of users saying it was important or very important 
